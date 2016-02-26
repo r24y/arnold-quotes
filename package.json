@@ -1,0 +1,8 @@
+{
+  "name": "arnold-quotes",
+  "version": "1.0.0",
+  "description": "Quotes from Arnold Schwarzenegger",
+  "main": "arnold.json",
+  "author": "obogobo",
+  "repository": "https://github.com/obogobo/arnold-quotes"
+}
